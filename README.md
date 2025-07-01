@@ -8,7 +8,7 @@ This [Laravel Nova](https://nova.laravel.com/) package adds a color picker to No
 ## Requirements
 
 - `php: >=8.0`
-- `laravel/nova: ^4.0`
+- `laravel/nova: ^4.0 || ^5.0`
 
 ## Features
 
